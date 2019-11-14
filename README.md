@@ -25,4 +25,4 @@ For more questions, you can just contact me at bins@ieee.org.  For other related
 
 Good luck!
 
-Bin Liu
+Bin
