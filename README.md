@@ -2,11 +2,17 @@
 This is the code to implement the robust particle filter (RPF) algorithm in the following paper
 
 @inproceedings{liu2017robust,
+
   title={Robust particle filter by dynamic averaging of multiple noise models},
+  
   author={Liu, Bin},
+  
   booktitle={2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  
   pages={4034--4038},
+  
   year={2017},
+  
   organization={IEEE}
 }
 
