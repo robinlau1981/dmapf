@@ -1,5 +1,6 @@
 # dmapf
 This is the code to implement the robust particle filter (RPF) algorithm in the following paper
+
 @inproceedings{liu2017robust,
   title={Robust particle filter by dynamic averaging of multiple noise models},
   author={Liu, Bin},
@@ -17,4 +18,5 @@ See it at: https://github.com/tminka/lightspeed
 For more questions, you can just contact me at bins@ieee.org.  For other related papers published by me, see my ResearchGate at https://www.researchgate.net/profile/Bin_Liu49/research or my Google Scholar Profile at https://scholar.google.co.uk/citations?user=UWCOeegAAAAJ&hl=en.
 
 Good luck!
+
 Bin Liu
